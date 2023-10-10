@@ -1,6 +1,4 @@
-# Selenium_WebDriver_Publicazo
-
-# Projeto de Testes com Selenium WebDriver e Cucumber
+# Projeto de Testes Automatico com Selenium WebDriver e Cucumber
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20Em%20desenvolvimento&color=GREEN&style=for-the-badge)
 
