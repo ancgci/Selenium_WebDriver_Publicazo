@@ -1,6 +1,6 @@
 # Selenium_WebDriver_Publicazo
 
-# Projeto de Testes com Selenium WebDriver e Cucumber 
+# Projeto de Testes com Selenium WebDriver e Cucumber
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20Em%20desenvolvimento&color=GREEN&style=for-the-badge)
 
@@ -10,12 +10,12 @@ Projeto de [teste de software automático](https://github.com/ancgci/Selenium_We
 
 Este é um projeto de teste automatizado utilizando Selenium WebDriver e Cucumber para testar a "feature Cadastro UC001" composta por quatro "Scenarios" do projeto [Publicazo](https://github.com/ancgci/TesteManualQA/wiki/Roteiro-de-Testes-Manuais) desenvolvido por [Carol Sprak](https://github.com/carolsprak/publicazo/) conforme documentação abaixo:
 
-![1](https://github.com/ancgci/Selenium_WebDriver_Publicazo/blob/main/Imagens/1.png)
+![1](https://github.com/ancgci/Selenium_WebDriver_Publicazo/blob/main/imagens/1.png)
 [Fonte](https://github.com/carolsprak/publicazo/wiki/UC001)
 
 Ao Final do teste temos a geração de um relatório ao final em html.
 
-![5](https://github.com/ancgci/Selenium_WebDriver_Publicazo/blob/main/Imagens/4.png)
+![5](https://github.com/ancgci/Selenium_WebDriver_Publicazo/blob/main/imagens/4.png)
 
 ## Site Testado
 
@@ -37,9 +37,9 @@ Ao Final do teste temos a geração de um relatório ao final em html.
 
 ## Imagens 
 
-![2](https://github.com/ancgci/Selenium_WebDriver_Publicazo/blob/main/Imagens/1.png)
-![3](https://github.com/ancgci/Selenium_WebDriver_Publicazo/blob/main/Imagens/2.png)
-![4](https://github.com/ancgci/Selenium_WebDriver_Publicazo/blob/main/Imagens/3.png)
+![2](https://github.com/ancgci/Selenium_WebDriver_Publicazo/blob/main/imagens/1.png)
+![3](https://github.com/ancgci/Selenium_WebDriver_Publicazo/blob/main/imagens/2.png)
+![4](https://github.com/ancgci/Selenium_WebDriver_Publicazo/blob/main/imagens/3.png)
 
 
 ## Contribuindo
