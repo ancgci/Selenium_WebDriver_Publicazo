@@ -13,7 +13,7 @@ Este é um projeto de teste automatizado utilizando Selenium WebDriver e Cucumbe
 
 Ao Final do teste temos a geração de um relatório ao final em html.
 
-![5](https://github.com/ancgci/Selenium_WebDriver_Publicazo/blob/main/imagens/4.png)
+![5](https://github.com/ancgci/Selenium_WebDriver_Publicazo/blob/main/imagens/5.png)
 
 ## Site Testado
 
